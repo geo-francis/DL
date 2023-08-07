@@ -1,0 +1,10 @@
+## Neural network
+
+Translate Text : Google Translate
+Face recognition
+recognition Speech
+Read headwritten text
+Control robots
+Input layer-----Hidden Layer (more than 1 )----- output layer
+CNN: Image--Convolutional layer(filter)---max pooling---flatten
+      downsampling ---starting with adding filter and using relu eliminating negative values, reducing the dinmensionality --getiing the important features    
